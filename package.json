@@ -1,0 +1,11 @@
+{
+  "name": "abelmeanmap",
+  "version": "1.0.0",
+  "description": "A RESTful app with google maps and MEAN",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\"&& exit 1\""
+  },
+  "author": "abel a hernandez",
+  "license": "MIT"
+}
